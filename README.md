@@ -5,6 +5,6 @@ This SAS project is done for the analysis to find which factor plays a major rol
 The price of the house depends on multiple factors. The main aim is to find the key factor that influences the house price & build a predictive model using SAS.
 # Dataset
 The study contains two datasets:
-(i) HousePrice.xlsx → contains sale price and transaction details
-(ii) Characteristics.xlsx → contains property features such as living area, bedrooms, bathrooms, and garage details
+*HousePrice.xlsx → contains sale price and transaction details
+*Characteristics.xlsx → contains property features such as living area, bedrooms, bathrooms, and garage details
 Both datasets contains a common factor that is Reference ID
